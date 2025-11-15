@@ -9,6 +9,8 @@
 
 // sayLoveYou()
 
+//update a function
+
 //---------------------------------------------------------
 
 function doubleIt(num){
