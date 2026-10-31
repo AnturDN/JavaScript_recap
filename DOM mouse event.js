@@ -11,10 +11,8 @@
 // Mouse event don't work with this element :-
 //<html>, <head>, <meta>, <title>, <br>, <style>, <script>, <iframe>, <param>, <base>, ,<bdo>
 
-
 console.clear();
 const div = document.querySelector('div');
-
 div.addEventListener('click', function(){
     console.log("clicked");                // onclick
 });
