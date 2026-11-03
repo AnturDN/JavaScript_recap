@@ -3,7 +3,6 @@ function callBack(name, age, task){
     console.log("your age", age);
     task();
 }
-
 function washHand(){
     console.log("Wash hand with soap");
 }
