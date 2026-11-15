@@ -1,5 +1,4 @@
 
-
 "use strict"
 function message(text = "Hello I am Antur"){ // Default parameter
     console.log(`${text}`);
