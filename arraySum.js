@@ -19,7 +19,6 @@ function getArraySum(numbers){
         sum = sum + element;
     }
     return sum;
-
 }
 var result = getArraySum(numbers)
 console.log("Total sum : ", result);
